@@ -74,8 +74,8 @@ function App() {
         <div className="max-w-5xl mx-auto text-center relative">
           <div className="mb-6">
             <img
-              src="https://littlemedicalschool.com/wp-content/uploads/2023/02/LMS_horz_2C_slogan-1-400.jpg"
-              alt="Little Medical School"
+              src="https://lirp.cdn-website.com/3bba8822/dms3rep/multi/opt/Exceed-learning-center-1920w.png"
+              alt="Exceed Learning Center"
               className="mx-auto h-16 md:h-20 w-auto"
             />
           </div>
